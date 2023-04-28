@@ -149,6 +149,10 @@ h3{
     height: 40px;
 }
 
+.maior{
+    padding-bottom: 60px;
+}
+
 @media (min-width: 1400px) {
 
     .maior {
